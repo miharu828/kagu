@@ -1,0 +1,250 @@
+.visual-text{
+    color:black;
+    font-size: 42px;
+    padding: 30px 30px;
+    line-height: 1.3em;
+   z-index: 2;
+   position: absolute;
+   top:230px;
+   width:100%;
+   background-color:rgba(0, 0, 0, 0);
+  }
+.visual-text p{
+    font-size: 15px;
+    letter-spacing: -0.03em;
+}
+.newitem{
+    margin-top:370px;
+}
+#sc{display:none;}
+
+.unit-title{
+    text-align: center;
+    margin: auto auto;}
+
+    .knoll-content .col-md-8 img{
+       width:100%;
+       height:100%;
+      }
+
+    .unit-title{
+        margin-top:10%;
+        margin-bottom:10%;
+    }
+
+    .topics img{
+        width:20%;
+        position: relative;
+    }
+
+    .topics .col-md-9{
+        position: absolute;
+        left:23%;
+        width:75%;
+        font-size:12px;
+    }
+
+    
+    .topics .col-md-9 h6{
+        font-size:13px;
+    }
+
+    .homeoffice .text-center{
+        margin-top: 10%;
+        position: relative;
+    }
+
+    .hometext{
+        position: absolute;
+        top:70%;
+        left:24%;
+        margin-bottom:10%;
+        width:65%;
+        text-align: center;
+
+    }
+
+    .mail-magazine{
+        margin-top:35%;
+        
+    }
+
+    .mail-magazine p{
+        padding-left:9%;
+        padding-right: 9%;
+        font-size: 15px;
+        font-weight: lighter;
+    }
+
+    .form-group{
+     text-align: center;
+    }
+
+    .col-sm-9 .form-group{
+        margin-left:0%;
+      }
+
+
+    .catalog h6{
+        text-align: center;
+        margin-bottom: 5%;
+        font-size:22px;
+    }
+
+    .catalog img{
+        width:47%;
+        
+    }
+
+    .catalog p{
+        width:47%;
+        margin-top:-60%;
+        margin-left:52%;
+        font-size:15px;
+        line-height: 1.8em;
+       
+    }
+
+    #catalog-request{
+        text-align: center;
+        margin-left: 57%;
+    }
+
+    
+
+    .sns img{
+        position: absolute;
+        top:10%;
+        width:20%;
+        margin-left: 0px;
+        margin-right: 0px;
+      }
+      
+
+      .sns{
+        display: flex;
+        flex-direction: row;
+        position: relative;
+        width: 150px;
+        height: 200px;
+        margin-left: 20%;
+      }
+      
+     
+
+
+      .menu {
+        max-width: 600px;
+    }
+    
+    .menu a {
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+        color: #000;
+    }
+    
+    label {
+        display: block;
+        margin: 0 0 4px 0;
+        padding : 15px;
+        line-height: 1;
+        color :#fff;
+        background :black;
+        cursor :pointer;
+    }
+    
+    input {
+        display: none;
+    }
+    
+    .menu ul {
+        margin: 0;
+        padding: 0;
+        background :#f4f4f4;
+        list-style: none;
+    }
+    
+    .menu li {
+        height: 0;
+        overflow: hidden;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -ms-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+    }
+    
+    #menu_bar01:checked ~ #links01 li,
+    #menu_bar02:checked ~ #links02 li {
+        height: 54px;
+        opacity: 1;
+    }
+
+    main-visual{margin-top:0%}
+
+
+.navbar-brand img {
+    /* margin-left: 67%; */
+    width: 40%;
+    position: relative;
+    left: 73%;
+}
+
+
+
+.navbar-toggler{
+position: absolute;
+}
+
+.visual-text{
+top: 170px;
+font-size:30px;}
+
+
+visual-text p {
+    font-size: 19px;
+    letter-spacing: -0.03em;
+    margin-top: -6%;
+}
+
+h3{
+font-size: 1.75rem;
+    margin-top: -20%;
+}
+
+.more-button{
+margin-bottom:30%;
+}
+
+.mail-magazine {
+    margin-top: 70%;
+}
+
+.sns {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-left: 9%;
+}
+    
+    
+.col-md-3{
+position: relative;
+width: 100%;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+margin-bottom: 2%;}
+
+#catalog-request {
+    text-align: center;
+    margin-left: 55%;
+}
+
+.more {
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 36%;}
